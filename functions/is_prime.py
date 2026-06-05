@@ -1,0 +1,18 @@
+
+
+def is_prime(number):
+
+    result = True
+
+    for i in range(2,number):
+
+        if number%i==0:
+
+            result=False
+
+            break
+
+    return result
+
+print(is_prime(7))
+print(is_prime(12))

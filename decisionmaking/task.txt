@@ -1,0 +1,63 @@
+# Python if-else Practice Questions (Beginner Level)
+
+## 🔹 Basic Scenario Questions
+
+1. Ask the user to enter a number.
+   Display "Even" if the number is divisible by 2, otherwise display "Odd".
+
+2. Ask the user to enter their age.
+   Display "Eligible to vote" if age is 18 or above, otherwise "Not eligible".
+
+3. Ask the user to enter marks.
+   Display "Pass" if marks are 40 or above, otherwise "Fail".
+
+4. Ask the user to enter a password.
+   Display "Valid password" if its length is at least 8 characters, otherwise "Too short".
+
+5. Ask the user to enter temperature.
+   Display "Hot" if temperature is greater than 30, otherwise "Cool".
+
+---
+
+## 🔹 Login / Comparison Based
+
+6. Store a correct username "admin".
+   Ask user to enter username and check if it matches.
+   Display "Welcome" or "Invalid user".
+
+7. Store a correct PIN 1234.
+   Ask the user to enter PIN.
+   Display "Access granted" or "Wrong PIN".
+
+8. Store a correct OTP 5678.
+   Ask user to enter OTP.
+   Display "Verified" or "Invalid OTP".
+
+---
+
+## 🔹 Real-Life Simple Scenarios
+
+9. Ask the user to enter bill amount.
+   If amount is 1000 or more, display "Discount applied", else "No discount".
+
+10. Ask the user to enter a number.
+    Display "Positive" if number is greater than or equal to 0, otherwise "Negative".
+
+11. Ask the user to enter a year.
+    Display "Leap year" if divisible by 4, otherwise "Not a leap year".
+
+12. Ask the user to enter speed.
+    If speed is greater than 60, display "Over speed", else "Normal speed".
+
+---
+
+## 🔹 Slight Thinking Questions
+
+13. Ask the user to enter two numbers.
+    Display "Equal" if both are same, otherwise "Not equal".
+
+14. Ask the user to enter a number.
+    Display "Multiple of 5" if divisible by 5, otherwise "Not a multiple of 5".
+
+15. Ask the user to enter total shopping items count.
+    If items are more than 10, display "Bulk order", else "Normal order".

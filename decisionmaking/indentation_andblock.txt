@@ -1,0 +1,27 @@
+decisionmaking stmts
+======================
+if 
+else
+elif
+match
+case 
+
+looping statements
+===================
+for 
+while
+
+functions
+============
+
+def 
+
+object oriented programming
+===========================
+class :
+
+error handling
+===============
+try 
+except
+finally

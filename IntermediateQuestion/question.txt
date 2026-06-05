@@ -1,0 +1,31 @@
+
+
+INTERMEDIATE LEVEL
+
+8. ATM Withdrawal System
+   User has a balance of 10000. Allow withdrawals until balance becomes zero or user exits. Display remaining balance after each transaction.
+
+9. Student Marks Entry
+   Keep asking marks for students. Stop when user enters -1. Display total students and average marks.
+
+10. Shopping Cart Total
+    User enters item prices continuously. Stop when user types "done". Calculate total bill.
+
+11. Guess the Number Game
+    System sets a number (e.g., 7). User keeps guessing until correct. Show number of attempts.
+
+12. Login System with Attempt Limit
+    User gets only 3 attempts to enter correct username and password. If failed, display "Account Locked".
+
+13. Factorial Calculator
+    Ask the user for a number and calculate its factorial using a while loop.
+
+14. Fibonacci Series
+    Print Fibonacci series up to n terms using a while loop.
+
+15. Electricity Bill Calculator
+    Ask user for units consumed. Calculate bill until user enters 0. Apply simple slab rates (you can define logic).
+
+---
+
+Submission Date: 08-05-2026
