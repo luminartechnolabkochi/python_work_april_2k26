@@ -1,0 +1,59 @@
+# query for listing all databases
+
+    mysql> show databases ;
+
+# query for creating a new database
+
+    mysql> create  database database_name;
+
+    eg:
+
+    mysql > create database sellit_db;
+
+# query for switch into a database;
+
+    mysql > use database_name;
+
+    eg:
+
+    mysql> use sellit_db;
+
+
+#query for creating table
+
+    mysql>  create table table_name (
+
+            column_name data_type constarint key ,
+            column_name data_type constarint,
+            column_name data_type constarint,
+            column_name data_type constarint,
+            column_name data_type constarint,
+    );
+
+    eg:
+
+    mysql > create table vehicle (
+
+        id int auto increment PRIMARY KEY,
+        name varcahar(200) not null,
+        price decimal(10,2) not null,
+        model varchar(20) not null,
+        fuel_type enum("petrol","diesel","cng","ev") default "petrol",
+        running_km int default 100,
+        location varchar(200) not null,
+        contact varchar(15) noy null,
+        owner_type enum("single","econd","third","other") default "single"
+    );
+
+
+
+
+
+
+
+
+
+
+
+
+
